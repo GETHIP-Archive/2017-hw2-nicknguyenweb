@@ -4,8 +4,8 @@ $(document).ready(function() {
     $("#profile-name").text(data.firstName + " " + data.lastName);
     $("#age").text(data.age);
     $("#profile-picture").attr("src", data.picture);
-    $.each(data.qualities, function(key, value){
-      $("#qualities").append("<li>" + value.quality + "</li>");
+    $.each(data.nickNames, function(key, value){
+      $("#nicknames").append("<li>" + value.nick + "</li>");
     });
   });
 });
