@@ -1,10 +1,11 @@
 {
-    "firstName":"Logan",
-    "lastName":"Fitzgibbons",
-    "age":21,
-    "picture": "https://pbs.twimg.com/profile_images/425447212626083840/DqyqYfax.jpeg",
-    "nickNames": [
-        {"nick": "Fitz"},
-        {"nick": "Big Money"}
+    "firstName":"Nick",
+    "lastName":"Nguyen",
+    "age":18,
+    "height": 66,
+    "picture": "https://www.campus.mpsomaha.org/campus/personPicture.jsp?personID=292&alt=logo",
+    "qualities": [
+        {"quality": "Fitz"},
+        {"quality": "Big Money"}
     ]
 }
